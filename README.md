@@ -1,2 +1,2 @@
-# chekhov-brevity-
+# chekhov-brevity
 Sentence length in Russian prose
